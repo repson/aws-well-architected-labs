@@ -6,7 +6,7 @@ pre: "<b>6. </b>"
 weight: 6
 ---
 
-This will setup Amazon QuickSight, so that users in the Cost Optimization Account can create analysis' and dashboards.
+This will setup Amazon QuickSight, so that users in the Cost Optimization Account can create analysis' and dashboards. It is recommended you configure this now so that it can be used in the future labs and for your organization. The steps to cancel your QuickSight subscription are in the tear down.
 
 ###  Setup QuickSight for the first time
 

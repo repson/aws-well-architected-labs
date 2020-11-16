@@ -10,7 +10,7 @@ This exercise covered fundamental steps that are required for all AWS accounts t
 
 
 ### Cancel your QuickSight subscription
-To cancel your QuickSight subscription follow the steps below.
+If you need to cancel your QuickSight subscription at a later date, follow the steps below.
 
 1. Click on your **profile icon** in the top right, select **Manage QuickSight**:
 ![Images/AWSQuicksight75.png](/Cost/100_1_AWS_Account_Setup/Images/AWSQuicksight75.png)
